@@ -1,0 +1,15 @@
+{
+  "name": "listfiltering",
+  "version": "1.0.0",
+  "description": "In this kata you will create a function that takes a list of non-negative integers and strings and returns a new list with the strings filtered out.",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
